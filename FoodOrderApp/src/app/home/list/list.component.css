@@ -1,0 +1,15 @@
+.food-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.list a {
+    position: relative;
+    top:15rem;
+    /* height: 10rem;
+    width: 10rem; */
+}
+.list a img{
+    margin-right: 1rem;
+}
